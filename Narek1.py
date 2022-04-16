@@ -1,5 +1,6 @@
-x = 3
-if x >= 5:
-    print("true")
+x = 1
+y = 2
+if x >= y:
+    print("Done")
 else:
-    print (asdasda)
+    print ("False, because y > x")
